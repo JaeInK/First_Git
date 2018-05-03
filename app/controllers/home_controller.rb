@@ -4,6 +4,7 @@ class HomeController < ApplicationController
   end
   
   def a
+    @a=1
   end
 
   def b
