@@ -8,6 +8,7 @@ class HomeController < ApplicationController
 
   def b
     @hey=1
+    @a=2
   end
 
   def c
